@@ -10,11 +10,16 @@ Inspired by [Josh Branchaud's TIL repo][jb].
 
 ## Categories
 
+- [ai](#ai)
 - [pycharm](#pycharm)
 - [python](#python)
 - [pip](#pip)
 
 ---
+
+## AI
+
+- [youtube - A Survey of Techniques for Maximizing LLM Performance](ai/youtube-A-Survey-of-Techniques-for-Maximizing-LLM-Performance.md)
 
 ## Pycharm
 
