@@ -12,6 +12,7 @@ Inspired by [Josh Branchaud's TIL repo][jb].
 
 - [ai](#ai)
 - [git](#git)
+- [html](#html)
 - [pip](#pip)
 - [pycharm](#pycharm)
 - [python](#python)
@@ -25,6 +26,11 @@ Inspired by [Josh Branchaud's TIL repo][jb].
 ## Git
 
 - [shallow clone by depth](git/shallow-clone-by-depth.md)
+
+
+## Html
+
+- [常规属性](html/常规属性.md)
 
 ## Pycharm
 
