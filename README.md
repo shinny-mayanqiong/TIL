@@ -16,6 +16,7 @@ Inspired by [Josh Branchaud's TIL repo][jb].
 - [pip](#pip)
 - [pycharm](#pycharm)
 - [python](#python)
+- [unix](#unix)
 
 ---
 
@@ -42,6 +43,11 @@ Inspired by [Josh Branchaud's TIL repo][jb].
 ## Pip
 
 - [Pip 安装到哪里了](pip/pip-安装到哪里了.md)
+
+
+## Unix
+
+- [了解 IPC 几种方式](unix/IPC.md)
 
 
 [jb]: https://github.com/jbranchaud/til
